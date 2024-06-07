@@ -1,0 +1,50 @@
+
+------------------------------------------
+[1]
+CPU
+Cantidad de dispositivos inferiores:
+IDs de dispositivos inferiores:
+ID0: 2
+------------------------------------------
+[2]
+CPU
+Cantidad de dispositivos inferiores:
+IDs de dispositivos inferiores:
+ID0: 3
+ID1: 4
+------------------------------------------
+[3]
+SENSOR DE TEMPERATURA
+------------------------------------------
+[4]
+CONCENTRADOR
+Cantidad de dispositivos inferiores:
+IDs de dispositivos inferiores:
+ID0: 5
+ID1: 6
+ID2: 7
+------------------------------------------
+[5]
+ACTUADOR, ELECTRO VALVULA
+------------------------------------------
+[6]
+CONCENTRADOR
+Cantidad de dispositivos inferiores:
+IDs de dispositivos inferiores:
+ID0: 8
+ID1: 9
+------------------------------------------
+[7]
+CPU
+Cantidad de dispositivos inferiores:
+IDs de dispositivos inferiores:
+ID0: 10
+------------------------------------------
+[8]
+SENSOR DE TEMPERATURA
+------------------------------------------
+[9]
+ACTUADOR, ELECTRO VALVULA
+------------------------------------------
+[10]
+SENSOR DE TEMPERATURA
